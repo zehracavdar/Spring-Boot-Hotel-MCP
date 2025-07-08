@@ -1,4 +1,2 @@
-com\mcp\spring_boot\service\HotelService.class
-com\mcp\spring_boot\tools\HotelSearchTool.class
 com\mcp\spring_boot\HotelMcpApplication.class
 com\mcp\spring_boot\config\WebClientConfig.class
