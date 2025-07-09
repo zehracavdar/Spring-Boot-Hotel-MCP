@@ -28,6 +28,7 @@ public class WebClientConfig {
                 .defaultHeader("Authorization", "Bearer " + bearerToken)
                 .defaultHeader("Accept-Language", acceptLanguage)
                 .defaultHeader("X-Currency", currency)
+                .defaultHeader("Content-Type", "application/json")
                 .filter(logRequest()) // Optional: log requests
                 .build();
     }
