@@ -1,4 +1,5 @@
 ## claude config file
+``` json
 {
   "mcpServers": {
     "spring-boot-hotel-mcp": {
@@ -11,3 +12,4 @@
     }
   }
 }
+``` 
