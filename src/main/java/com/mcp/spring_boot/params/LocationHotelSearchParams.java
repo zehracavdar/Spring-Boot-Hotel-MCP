@@ -18,3 +18,5 @@ public class LocationHotelSearchParams {
     private Integer limit;
     private Integer offset;
 }
+
+
